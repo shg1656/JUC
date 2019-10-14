@@ -7,6 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  *多线程之间按顺序调用，实现A -> B -> C
 
+
  *三个线程启动，要求如下
  *
  *

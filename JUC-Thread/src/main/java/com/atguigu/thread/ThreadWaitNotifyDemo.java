@@ -14,7 +14,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * 	2		涉及到线程之间的通信或调度    --   判断/干活/通知
  * 	3 		小心，防止多线程的虚假唤醒，判断时候用while而不是if
  *			虚假唤醒就是obj.wait();被除obj.notify()或obj.notifyAll()之外的其他情况唤醒，而此时是不应被唤醒的
- * 
+ * 4  		一定注意标志位的更新
  * @author JAVA
  *
  */
