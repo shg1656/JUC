@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JUC.iml" filepath="$PROJECT_DIR$/.idea/JUC.iml" />
+      <module fileurl="file://$USER_HOME$/git/JUC/JUC-Thread/JUC-Thread.iml" filepath="$USER_HOME$/git/JUC/JUC-Thread/JUC-Thread.iml" />
     </modules>
   </component>
 </project>
